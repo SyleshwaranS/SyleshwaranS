@@ -1,4 +1,5 @@
-<img src= "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Syleshwaran%20S&fontSize=42&fontColor=ffffff&animation=twinkling">
+<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&text=Syleshwaran%20S&fontSize=42&fontColor=ffffff&animation=twinkling">
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
