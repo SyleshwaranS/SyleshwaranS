@@ -216,7 +216,7 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syleshwaran_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syleshwaran-s61a8a3269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syleshwaran_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syleshwaran-s-61a8a3269/)
 [![Email](https://img.shields.io/badge/Email-syleshwarans@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syleshwarans@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SyleshwaranS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyleshwaranS/SyleshwaranS)
 
