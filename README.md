@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:70a5fd,100:bf91f3&amp;height=180&amp;section=header&amp;text=Syleshwaran%20S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Zoho%20Developer%20%7C%20IoT%20%26%20Automation%20Engineer%20%7C%20ECE%20Graduate&amp;descAlignY=62&amp;descSize=16">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:bf91f3&height=180&text=Syleshwaran%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Zoho%20Developer%20%E2%80%A2%20IoT%20%26%20Automation%20Engineer%20%E2%80%A2%20ECE%20Graduate&descAlignY=62&descSize=16)
 
 <div align="center">
