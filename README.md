@@ -192,9 +192,9 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 B.E. — Electronics & Communication Engineering | Muthayammal Engineering College | 2022 – 2026 | — |
-| 📗 Higher Secondary — Maths & Biology | Bharathi Vidyalaya HSS | 2020 – 2022 | — |
-| 📘 SSLC — English Medium | Municipal Boys HSS, Salem | 2014 – 2020 | — |
+| 🎓 B.E. — Electronics & Communication Engineering | Muthayammal Engineering College | 2022 – 2026 | 8.3 |
+| 📗 Higher Secondary — Maths & Biology | Bharathi Vidyalaya HSS | 2020 – 2022 | 79% |
+| 📘 SSLC — English Medium | Municipal Boys HSS, Salem | 2014 – 2020 | 78% |
 
 </div>
 
