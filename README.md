@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syleshwaran%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Zoho%20Developer%20%7C%20IoT%20%26%20Automation%20Engineer%20%7C%20ECE%20Graduate&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:bf91f3&height=180&section=header&text=Syleshwaran%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Zoho%20Developer%20%7C%20IoT%20%26%20Automation%20Engineer%20%7C%20ECE%20Graduate&descAlignY=62&descSize=16"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -109,14 +109,6 @@ print(me.motto())
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyleshwaranS&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyleshwaranS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
